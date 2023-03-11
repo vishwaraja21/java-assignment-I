@@ -1,7 +1,7 @@
 # java-assignment-I
-#1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+# 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -19,12 +19,12 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
 
-#2. Write a Java program to compare two numbers
+# 2. Write a Java program to compare two numbers
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -43,12 +43,12 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
 
-#3. Write a Java program to convert a string to an integer
+# 3. Write a Java program to convert a string to an integer
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -60,13 +60,13 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
 
 
-#4. Java Program to find area of rhombus
+# 4. Java Program to find area of rhombus
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -79,11 +79,11 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
-#5. Write a Java program to find the number of days in a month
+# 5. Write a Java program to find the number of days in a month
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -115,11 +115,11 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
-#6. Write a Java program to print the even numbers from 1 to 20
+# 6. Write a Java program to print the even numbers from 1 to 20
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -136,11 +136,11 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
-#7. Write a Java program to create a simple calculator
+# 7. Write a Java program to create a simple calculator
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -184,11 +184,11 @@ public class Main {
     }
 }
 ~~~
-#Output
+# Output
 
-#8. Write a Java program to print multiplication table of given number
+# 8. Write a Java program to print multiplication table of given number
 
-#Program:
+# Program:
 ~~~
 import java.util.Scanner;
 public class Main {
@@ -204,7 +204,7 @@ public class Main {
     }
 }
 ~~~
-#Output:
+# Output:
 
 
 
