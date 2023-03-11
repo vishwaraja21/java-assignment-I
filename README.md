@@ -1,4 +1,4 @@
-# java-assignment-I
+# Java-Weekly-Assignment-I
 # VISHWARAJA.R
 # 212221220060
 # 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
@@ -22,6 +22,9 @@ public class Main {
 }
 ~~~
 # Output:
+
+![image](https://user-images.githubusercontent.com/102411421/224492940-c6bccb8e-2cd4-40a7-96d3-c57981726778.png)
+
 
 
 # 2. Write a Java program to compare two numbers
@@ -47,6 +50,8 @@ public class Main {
 ~~~
 # Output:
 
+![image](https://user-images.githubusercontent.com/102411421/224493021-532342e9-14db-4a58-8248-e8941f681b35.png)
+
 
 # 3. Write a Java program to convert a string to an integer
 
@@ -64,6 +69,7 @@ public class Main {
 ~~~
 # Output:
 
+![image](https://user-images.githubusercontent.com/102411421/224493277-98779208-6d0a-4839-b37e-170726cefaa7.png)
 
 
 # 4. Java Program to find area of rhombus
@@ -82,6 +88,9 @@ public class Main {
 }
 ~~~
 # Output:
+
+![image](https://user-images.githubusercontent.com/102411421/224493058-bf004fdf-a305-411e-a6e8-414dd89d8a6b.png)
+
 
 # 5. Write a Java program to find the number of days in a month
 
@@ -119,6 +128,9 @@ public class Main {
 ~~~
 # Output:
 
+![image](https://user-images.githubusercontent.com/102411421/224493083-849e17b5-5b38-4d79-bdc8-4df1f10e9750.png)
+
+
 # 6. Write a Java program to print the even numbers from 1 to 20
 
 # Program:
@@ -139,6 +151,9 @@ public class Main {
 }
 ~~~
 # Output:
+
+![image](https://user-images.githubusercontent.com/102411421/224493114-ebee0af6-ec80-4f35-aa0a-a6721380fa7b.png)
+
 
 # 7. Write a Java program to create a simple calculator
 
@@ -186,7 +201,10 @@ public class Main {
     }
 }
 ~~~
-# Output
+# Output:
+
+![image](https://user-images.githubusercontent.com/102411421/224493173-0a65d1b1-69e7-4597-9b69-a715b81aa3e5.png)
+
 
 # 8. Write a Java program to print multiplication table of given number
 
@@ -209,4 +227,5 @@ public class Main {
 # Output:
 
 
+![image](https://user-images.githubusercontent.com/102411421/224493252-1e000b77-919f-4637-b0fd-d80852dee32d.png)
 
