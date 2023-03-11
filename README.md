@@ -19,6 +19,8 @@ public class Main {
 }
 ~~~
 #Output:
+
+
 #2. Write a Java program to compare two numbers
 #Program:
 ~~~
@@ -40,6 +42,8 @@ public class Main {
 }
 ~~~
 #Output:
+
+
 #3. Write a Java program to convert a string to an integer
 #Program:
 ~~~
@@ -54,6 +58,9 @@ public class Main {
 }
 ~~~
 #Output:
+
+
+
 #4. Java Program to find area of rhombus
 #Program:
 ~~~
@@ -104,5 +111,92 @@ public class Main {
 }
 ~~~
 #Output:
+
+#6. Write a Java program to print the even numbers from 1 to 20
+#Program:
+~~~
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args)
+    {
+        int i;
+        for(i=1;i<=20;i++)
+        {
+            if(i%2 == 0)
+            {
+                System.out.println(i+"\t");
+            }
+        }
+    }
+}
+~~~
+#Output:
+
+#7. Write a Java program to create a simple calculator
+#Program:
+~~~
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args)
+    {
+        System.out.println("Enter Choice(1-add,2-sub,3-div,4-mul");
+        Scanner s = new Scanner(System.in);
+        int choice = s.nextInt();
+        System.out.println("Enter 1st number: ");
+        int a = s.nextInt();
+        System.out.println("Enter 2nd number: ");
+        int b = s.nextInt();
+        switch(choice)
+        {
+            case 1:
+            {
+                System.out.println(a+b);
+                break;
+            }
+            case 2:
+            {
+                System.out.println(a-b);
+                break;
+            }
+            case 3:
+            {
+                System.out.println(a/b);
+                break;
+            }
+            case 4:
+            {
+                System.out.println(a*b);
+                break;
+            }
+            default:
+            {
+                System.out.println("Enter choice range btw 1-4");
+                break;
+            }
+        }
+    }
+}
+~~~
+#Output
+
+#8. Write a Java program to print multiplication table of given number
+#Program:
+~~~
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args)
+    {
+        System.out.print("Enter a number: ");
+        Scanner s = new Scanner(System.in);
+        int a = s.nextInt();
+        for(int i=1;i<=10;i++)
+        {
+            System.out.println(a+ " * " +i+ " = " +(a*i));
+        }
+    }
+}
+~~~
+#Output:
+
 
 
