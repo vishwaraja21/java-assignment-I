@@ -1,5 +1,6 @@
 # java-assignment-I
 #1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -22,6 +23,7 @@ public class Main {
 
 
 #2. Write a Java program to compare two numbers
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -45,6 +47,7 @@ public class Main {
 
 
 #3. Write a Java program to convert a string to an integer
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -62,6 +65,7 @@ public class Main {
 
 
 #4. Java Program to find area of rhombus
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -78,6 +82,7 @@ public class Main {
 #Output:
 
 #5. Write a Java program to find the number of days in a month
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -113,6 +118,7 @@ public class Main {
 #Output:
 
 #6. Write a Java program to print the even numbers from 1 to 20
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -133,6 +139,7 @@ public class Main {
 #Output:
 
 #7. Write a Java program to create a simple calculator
+
 #Program:
 ~~~
 import java.util.Scanner;
@@ -180,6 +187,7 @@ public class Main {
 #Output
 
 #8. Write a Java program to print multiplication table of given number
+
 #Program:
 ~~~
 import java.util.Scanner;
